@@ -44,7 +44,7 @@ pacman -U <path to the old jsonlibtar file in the cache>
 
 ## Why this post?
 
-This is just a rubber ducking post. Over the course, I learn't to find how to find all the packages that are dependant on a given one:
+This is just a rubber ducking post. Over the course, I learnt to find how to find all the packages that are dependant on a given one:
 
 ```
 pactree -r <package>
