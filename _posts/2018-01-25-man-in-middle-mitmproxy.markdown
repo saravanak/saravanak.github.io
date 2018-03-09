@@ -23,6 +23,3 @@ Then, on a seperate window, trigger telnet to listen on the port `4444`. Voila, 
 ![My helpful screenshot]({{ "/images/test.jpg" | absolute_url }})
 
 Here, you can see the entire process setup on my machine. This enabled me to have a detailed look at the bug. 	
-
-Was'nt this nice and sweet?
-☮ Luv.. ☮

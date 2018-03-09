@@ -49,6 +49,3 @@ This is just a rubber ducking post. Over the course, I learnt to find how to fin
 ```
 pactree -r <package>
 ```
-
-Was'nt this nice and sweet?
-☮ Luv.. ☮
