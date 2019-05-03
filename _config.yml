@@ -23,7 +23,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social_sites:
   twitter: vsk62gate
   github:  saravanak
-  stackoverflow: jaquard
+  stackoverflow: 
+    id: users/2799561/jacquard
+    alias: jacquard
 
 rss: rss
 
